@@ -27,6 +27,15 @@
             </ul>
         </li>
     </uL>
+    <p>Databases: </p>
+    <uL>
+        <li>Know/Using
+            <ul>
+                <li>MongoDB</li>
+                <li>MySQL</li>
+            </ul>
+        </li>
+    </uL>
 </div>
 <div align="justify"">
     <h2>Social media</h2>
